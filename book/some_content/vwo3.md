@@ -9,7 +9,7 @@ Hoeveel significante cijfers heeft ieder getal?
 <ol type="A">
   <li>0,007</li>
   <li>20000</li>
-  <li>2,07 $$\cdot 10^(-7)$$</li>
+  <li>2,07 $\cdot 10^(-7)$</li>
 </ol>
 ```
 
@@ -29,18 +29,18 @@ Bij het vermenigvuldigen en delen mag je de uitkomst geven met het aantal signif
 :label: ex_significantie_vermeningvuldigen
 Geef het antwoord met de juiste significantie:
 <ol type="A">
-  <li>$$2,03 \cdot 7 $$ = </li>
-  <li>$$frac{0,98 \cdot \pi}{4501}$$ = </li>
-  <li>$$frac{3,56\cdot5,25}{4,2}$$ = </li>
+  <li>$2,03 \cdot 7 $ = </li>
+  <li>$frac{0,98 \cdot \pi}{4501}$ = </li>
+  <li>$frac{3,56\cdot5,25}{4,2}$ = </li>
 </ol>
 ```
 
 ```{oplossing} ex_significantie_vermeningvuldigen
 :class: dropdown
 <ol type="A">
-  <li>$$2,03 \cdot 7 = 14,21 = 1 \cdot 10^1$$ (1 s.c.)</li>
-  <li>$$frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^(-3) = 6,8 \cdot 10^(-3)$$</li>
-  <li>$$frac{3,56\cdot5,25}{4,2} = 4,45 = 4,4 $$ (2 s.c.)</li>
+  <li>$2,03 \cdot 7 = 14,21 = 1 \cdot 10^1$ (1 s.c.)</li>
+  <li>$frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^(-3) = 6,8 \cdot 10^(-3)$</li>
+  <li>$frac{3,56\cdot5,25}{4,2} = 4,45 = 4,4 $ (2 s.c.)</li>
 </ol>
 ```
 
