@@ -18,7 +18,7 @@ Hoeveel significante cijfers heeft ieder getal?
 <ol type="A">
   <li>1 s.c.</li>
   <li>5 s.c.</li>
-  <li>3 s.c./li>
+  <li>3 s.c. </li>
 </ol>
 ```
 
