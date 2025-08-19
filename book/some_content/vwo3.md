@@ -9,7 +9,7 @@ Hoeveel significante cijfers heeft ieder getal?
 
 * 0,007
 * 20000
-* 2,07 $\cdot 10^(-7)$
+* 2,07 $\cdot 10^{-7}$
 ```
 
 ```{oplossing} ex_significante_cijfers
@@ -27,8 +27,8 @@ Bij het vermenigvuldigen en delen mag je de uitkomst geven met het aantal signif
 Geef het antwoord met de juiste significantie:
 
 * $2,03 \cdot 7 $ = 
-* $frac{0,98 \cdot \pi}{4501}$ = 
-* $frac{3,56\cdot5,25}{4,2}$ = 
+* $\frac{0,98 \cdot \pi}{4501}$ = 
+* $\frac{3,56\cdot5,25}{4,2}$ = 
 
 ```
 
@@ -36,8 +36,8 @@ Geef het antwoord met de juiste significantie:
 :class: dropdown
 
 * $2,03 \cdot 7 = 14,21 = 1 \cdot 10^1$ (1 s.c.)
-* $frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^(-3) = 6,8 \cdot 10^(-3)$
-* $frac{3,56\cdot5,25}{4,2} = 4,45 = 4,4 $ (2 s.c.)
+* $\frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^{-3} = 6,8 \cdot 10^{-3}$
+* $\frac{3,56\cdot5,25}{4,2} = 4,45 = 4,4 $ (2 s.c.)
 
 ```
 
