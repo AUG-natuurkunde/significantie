@@ -1,0 +1,10 @@
+format: jb-book
+root: intro.md
+
+parts:
+  - caption: Inhoud
+    chapters:
+    - file: some_content/overview.md
+      sections:
+      - file: some_content/text_and_code.ipynb
+   # - file: references.md #buiten gebruik, eventueel in te zetten mocht je referenties willen gebruiken
