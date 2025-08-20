@@ -36,7 +36,7 @@ Geef het antwoord met de juiste significantie:
 :class: dropdown
 
 * $2,03 \cdot 7 = 14,21 = 1 \cdot 10^1$ (1 s.c.)
-* $\frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^{-3} = 6,8 \cdot 10^{-3}$
+* $\frac{0,98 \cdot \pi}{4501} = 6,842 \cdot 10^{-3} = 6,8 \cdot 10^{-3}$ (2 s.c.)
 * $\frac{3,56\cdot5,25}{4,2} = 4,45 = 4,4 $ (2 s.c.)
 
 ```
